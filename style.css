@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header,main,footer{
+    color:black
+}
+
+header{
+    background-color: #2419B2;
+}
+main{
+    background-color: #7247D7;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+.Расписание{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin-left: 20px;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Тренера{
+   text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin-left: 20px;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+}
